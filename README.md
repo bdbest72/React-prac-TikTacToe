@@ -1,9 +1,9 @@
-#김록원의 React 공식 튜토리얼을 사용한 자습 repo입니다.
+# 김록원의 React 공식 튜토리얼을 사용한 자습 repo입니다.
 
 https://ko.reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial
 
 
-#react 공식 readme:
+# react 공식 readme:
 
 # Getting Started with Create React App
 
